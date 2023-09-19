@@ -1,0 +1,19 @@
+.footer-section {
+  background-color: #6348ba;
+  color: white;
+}
+.social-link {
+  list-style-type: none;
+  padding-top: 30px;
+}
+.social-link li {
+  margin: 0px 10px;
+}
+.link a {
+  text-decoration: none;
+  color: white;
+  margin: 10px;
+}
+.credit {
+  padding-bottom: 170px;
+}

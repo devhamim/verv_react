@@ -1,0 +1,34 @@
+.community-title {
+  padding-top: 50px;
+  color: white;
+  padding-bottom: 30px;
+}
+.community-section {
+  background-image: linear-gradient(to bottom left, #934acb, #5d47b8);
+}
+.community-img {
+  width: 60px;
+}
+.community-text {
+  color: white;
+  font-size: 18px;
+}
+.fa-star,
+.fa-star-half {
+  color: #fea405;
+  margin-left: 3px;
+}
+.fa-apple {
+  font-size: 25px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.review-card {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 10px 10px;
+  border-radius: 10px;
+  margin: 50px 0px;
+}
+.review-section {
+  padding-bottom: 80px;
+}

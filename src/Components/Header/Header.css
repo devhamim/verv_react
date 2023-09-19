@@ -1,0 +1,34 @@
+.header-body {
+  background-image: linear-gradient(to bottom right, #a977f4, #e583fa);
+}
+.top-header {
+  background-image: linear-gradient(#391a77, #663fb300);
+  padding-bottom: 30px;
+}
+.verv-img {
+  width: 70px;
+  height: 70px;
+}
+.verv-text {
+  font-size: 22px;
+  font-weight: 700;
+  color: white;
+}
+.verv-title {
+  color: white;
+  font-size: 21px;
+  font-weight: 600;
+}
+.apple-store-img {
+  width: 150px;
+}
+.image-container {
+  position: relative;
+}
+.apple-store-logo {
+  position: absolute;
+  bottom: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 150px;
+}

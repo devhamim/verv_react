@@ -1,0 +1,19 @@
+.install-section {
+  background-image: linear-gradient(to right, #3a329c, #ba11bb);
+}
+.sticky-text {
+  color: white;
+  font-size: 18px;
+}
+.sticky-img {
+  width: 60px;
+}
+.install-btn {
+  border: none;
+  outline: none;
+  background-color: white;
+  border-radius: 50px;
+  padding: 5px 15px;
+  font-weight: bold;
+  color: #ba11bb;
+}
